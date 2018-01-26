@@ -1,4 +1,4 @@
-# SAandOPTforDynamicAVR
+# Schedulability Analysis and Performance Optimization of Dynamic AVR Task Model #
 
 The file "EngineOptimization.pdf" provides the technical details for two optimization procedures "dAVR-exact" and "dAVR2sAVR-exact".
 

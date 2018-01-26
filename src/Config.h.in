@@ -1,0 +1,7 @@
+#ifndef __CONFIGURE_HEADER_H_
+#define __CONFIGURE_HEADER_H_
+
+#cmakedefine WINDOWS_PLATFORM
+#cmakedefine LINUX_PLATFORM
+
+#endif

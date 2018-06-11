@@ -30,6 +30,6 @@ GSL - GNU Scientific Library
 ## Evaluating Procedure ##
 
 The main.cpp file includes all the experiments for our paper "Schedulability Analysis of Engine Control Tasks
-with Dynamic Switching Speeds", which will be submitted to ECRTS 2018. 
+with Dynamic Switching Speeds", which was submitted to RTSS 2018. 
 
 Please let us know if there is any issue.

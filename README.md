@@ -1,6 +1,8 @@
 # Schedulability Analysis and Performance Optimization of Dynamic AVR Task Model #
 
-The file "EngineOptimization.pdf" presents an exhaustive search optimization algorithm (namely dAVR-exact), which will dynamically adjust the switching speeds to maximize the control performance for each data point in the engine speed profiles.
+The file "dynamic-AVR-analysis.pdf" introduces the dynamic AVR task model and provides the analysis method for such tasks.  
+
+The file "engine-optimization.pdf" presents an exhaustive search optimization algorithm (namely dAVR-exact), which will dynamically adjust the switching speeds to maximize the control performance for each data point in the engine speed profiles.
 
 The source code evaluates:
 - the engine control performance of the optimization procedures using static and dynamic AVR task model
